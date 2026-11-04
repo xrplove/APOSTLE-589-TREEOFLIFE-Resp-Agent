@@ -43,7 +43,7 @@ dependencies = [
 
 [project.optional-dependencies]
 cuda = [
-    "torch==2.8.0",
+    "torch==2.13.0",
     "torchaudio==2.8.0",
     "torchvision==0.23.0",
 ]
